@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 46a82bf903bf1f040a6d9c639604c294
+timeCreated: 1511094331
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bamf Italic
+  fontNames:
+  - Bamf Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

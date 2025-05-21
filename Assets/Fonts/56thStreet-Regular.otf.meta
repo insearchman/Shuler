@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 09a79bd5ddfc23744a0c538f9b6e5f7c
+timeCreated: 1521918969
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 56th Street
+  fontNames:
+  - 56th Street
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

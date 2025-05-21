@@ -1,11 +1,9 @@
 # Shuler
+Not published
 
-First try (2016)
+Note:
+- First version (2016)
+- This repository contains various versions of the backgrounds & card texture organization.
 
-Have mix from several versions of background & card textures organization
-
-Without
-- Onbording
-- Yandex ads
-
-not published
+Done:
+- main functionality
